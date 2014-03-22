@@ -1,13 +1,3 @@
-#||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#|||||||||||| Jest to moje własna interpretacja zbiorów Julii w pythonie                        |||||
-#|||||||||||| podczas przegladania internetu natknalem sie na zbiory julii                      |||||
-#|||||||||||| które postanowilem spróbowac napisac samemu, jako że moje programowanie           |||||
-#|||||||||||| opiera sie tylko na tym czego nauczylem sie do tej pory na WdpP, program          |||||
-#|||||||||||| rysuje sie bardzo długo dla przybliżenia 4(im mniejsze tym dokładniej), przy      |||||
-#|||||||||||| przybliżeniu = 1 rysuje każdy pixel. nawet nie myslalem o odddawaniu tego na      |||||
-#|||||||||||| ten konkurs właśnie przez mozolnosc rysowania. Wiec jeśli sie nie nadaje... szkoda|||||
-#|||||||||||| Pozdrawiam Paweł Szymański 	 													|||||
-#||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
 
